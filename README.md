@@ -1,1 +1,1 @@
-# intro_to_java
+# Intro_to_JS
